@@ -1,1 +1,1 @@
-<img src="https://github.com/prishuprograms/PrashansDixit/blob/main/IMG_20201101_163748.jpg?raw=true" alt="drawing" width="200"/> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<img src="https://github.com/prishuprograms/PrashansDixit/blob/main/nailedit.jpg?raw=true" alt="header" width="200"/> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
