@@ -8,7 +8,6 @@
 <a href="https://www.instagram.com/dixit_prashans05/"><img height="30" src="https://github.com/prishuprograms/PrashansDixit/blob/main/icon/instagram.png?raw=true"></a>
 </p>
 <br>
-# 🔷 Current Understandings
 📌ɢᴏᴏᴅ ᴛᴏ ɢᴏ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ ʟᴀɴɢᴜᴀɢᴇ <br>
 📌ɪɴᴛᴇʀᴍᴇᴅɪᴀᴛᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ ᴍʟ ᴀɴᴅ ᴅʟ <br>
 📌ᴀʟꜱᴏ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ᴠɪꜱɪᴏɴ ʙᴀꜱɪᴄᴀʟʟʏ <br>
