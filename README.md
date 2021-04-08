@@ -1,1 +1,1 @@
-<img src="https://github.com/prishuprograms/PrashansDixit/blob/main/nailedit.jpg?raw=true" alt="header" width="200"/> Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Header](https://github.com/prishuprograms/PrashansDixit/blob/main/nailedit.jpg "Header") Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
