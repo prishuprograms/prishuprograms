@@ -46,7 +46,7 @@
 ![](https://img.shields.io/badge/Tools-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-LightAutoML-informational?style=flat&logo=automl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-CMD-informational?style=flat&logo=cmd&logoColor=white&color=2bbc8a)
 
 ## 📈 GitHub Stats
