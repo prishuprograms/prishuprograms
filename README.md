@@ -52,7 +52,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prishuprograms&layout=compact&theme=tokyonight)](https://github.com/prishuprograms/github-readme-stats)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Prashans's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishuprograms&show_icons=true&theme=tokyonight)
-
-## ⚡Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
