@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/prashans-dixit-b124a9203/"><img height="30" src="https://github.com/prishuprograms/PrashansDixit/blob/main/icon/linkedin.png?raw=true"></a>
 <a href="https://www.instagram.com/dixit_prashans05/"><img height="30" src="https://github.com/prishuprograms/PrashansDixit/blob/main/icon/instagram.png?raw=true"></a>
 </p>
+<br>
 ## 🔷 Current Understandings
 📌ɢᴏᴏᴅ ᴛᴏ ɢᴏ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ ʟᴀɴɢᴜᴀɢᴇ <br>
 📌ɪɴᴛᴇʀᴍᴇᴅɪᴀᴛᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ ᴍʟ ᴀɴᴅ ᴅʟ <br>
@@ -15,6 +16,7 @@
 📌ᴇɴᴊᴏʏ ᴡʜɪʟᴇ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘʀᴏɢʀᴀᴍꜱ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢꜱ <br>
 📌ᴄʟᴀꜱꜱ 10 ꜱᴛᴜᴅᴇɴᴛ (16 ʏ/ᴏ) <br>
 <br>
+
 ## 🎯Future Aims
 📌Looking forward to doing a good job in Kaggle and DS communities. <br>
 📌Master DSA, ML and DL <br> 
