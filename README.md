@@ -15,6 +15,7 @@
 <a href="https://www.instagram.com/dixit_prashans05/"><img height="30"   src="https://github.com/prishuprograms/PrashansDixit/blob/main/icon/instagram.png?raw=true"></a>&nbsp; &nbsp; 
 </p>
 <br><br>
+<br>
 📌ɢᴏᴏᴅ ᴛᴏ ɢᴏ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ ʟᴀɴɢᴜᴀɢᴇ <br>
 📌ɪɴᴛᴇʀᴍᴇᴅɪᴀᴛᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ ᴍʟ ᴀɴᴅ ᴅʟ <br>
 📌ᴀʟꜱᴏ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ᴠɪꜱɪᴏɴ ʙᴀꜱɪᴄᴀʟʟʏ <br>
@@ -52,7 +53,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prishuprograms&layout=compact&theme=tokyonight)](https://github.com/prishuprograms/github-readme-stats)
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 ![Prashans's GitHub stats](https://github-readme-stats.vercel.app/api?username=prishuprograms&show_icons=true&theme=tokyonight)
-
-### Spotify Playing 🎧
-
-[<img src="https://prashans-dixit-git-main-prishuprograms.vercel.appapi/spotify-playing" alt="Prashans Spotify Playing" width="350" />](https://open.spotify.com/user/314t2bbvd4oatsf22rsizajooh6q)
