@@ -1,5 +1,5 @@
 ![Header](https://github.com/prishuprograms/prishuprograms/blob/main/assets/profile_banner.png "Header") 
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 # Hey folks there! I'm Prashans Dixit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ## Thanks for landing on my profile 🙏🏻
 
@@ -65,4 +65,4 @@
 <p>
     <img class="center" alt="Prashans Dixit's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=prishuprograms.prishuprograms"/>
 </p>
-<p align="left"> <a href="https://twitter.com/Dixit05Prashans" target="blank"><img src="https://img.shields.io/twitter/follow/Dixit05Prashans?logo=twitter&style=for-the-badge" alt="Dixit05Prashans" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Dixit05Prashans" target="blank"><img src="https://img.shields.io/twitter/follow/Dixit05Prashans?logo=twitter&style=for-the-badge" alt="Dixit05Prashans" /></a> </p>             
