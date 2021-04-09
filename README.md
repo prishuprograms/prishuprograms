@@ -16,7 +16,6 @@
 <a href="https://www.kaggle.com/prashansdixit"><img height="30"   src="https://github.com/prishuprograms/prishuprograms/blob/main/assets/kaggle.png?raw=true"></a> 
 <a href="https://www.instagram.com/dixit_prashans05/"><img height="30"   src="https://github.com/prishuprograms/prishuprograms/blob/main/assets/instagram.png?raw=true"></a>&nbsp; &nbsp; 
 </p>
-<br><br>
 <br>
 
 ### Personal Portfolio✌🏻 - [Prashans' Portfolio](https://prashansdixit.wixsite.com/prishuprograms) <br>
@@ -49,12 +48,10 @@
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNB-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-FastAPI-informational?style=flat&logo=fastapi&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Sklearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Pytorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Tensorflow-informational?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-NLTK-informational?style=flat&logo=nltk&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-LightAutoML-informational?style=flat&logo=automl&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Streamlit-informational?style=flat&logo=streamlit&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-GitBash-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Shell-CMD-informational?style=flat&logo=cmd&logoColor=white&color=2bbc8a)
