@@ -65,3 +65,4 @@
 <p>
     <img class="center" alt="Prashans Dixit's github visitors" src="https://visitor-badge.laobi.icu/badge?page_id=prishuprograms.prishuprograms"/>
 </p>
+<p align="left"> <a href="https://twitter.com/Dixit05Prashans" target="blank"><img src="https://img.shields.io/twitter/follow/Dixit05Prashans?logo=twitter&style=for-the-badge" alt="Dixit05Prashans" /></a> </p>
