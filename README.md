@@ -1,6 +1,7 @@
 ![Header](https://github.com/prishuprograms/PrashansDixit/blob/main/nailedit.jpg "Header") 
 # 𝐻𝑒𝓎 𝐹𝑜𝓁𝓀𝓈 𝒯𝒽𝑒𝓇𝑒! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ## Thanks for landing on my profile 🙏🏻
+
 <p>
   <img width="250" align='left' src="https://github.com/prishuprograms/PrashansDixit/blob/main/IMG_20201101_163748.jpg?raw=true">
 </p>
@@ -16,12 +17,13 @@
 </p>
 <br><br>
 <br>
-# Personal Portfolio✌🏻
-[Prashans' Portfolio](https://prashansdixit.wixsite.com/prishuprograms)
+
+### Personal Portfolio✌🏻 - [Prashans' Portfolio](https://prashansdixit.wixsite.com/prishuprograms) <br>
+
 📌ɢᴏᴏᴅ ᴛᴏ ɢᴏ ᴡɪᴛʜ ᴘʏᴛʜᴏɴ ʟᴀɴɢᴜᴀɢᴇ <br>
 📌ɪɴᴛᴇʀᴍᴇᴅɪᴀᴛᴇ ᴋɴᴏᴡʟᴇᴅɢᴇ ᴏꜰ ᴍʟ ᴀɴᴅ ᴅʟ <br>
 📌ᴀʟꜱᴏ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴄᴏᴍᴘᴜᴛᴇʀ ᴠɪꜱɪᴏɴ ʙᴀꜱɪᴄᴀʟʟʏ <br>
-📌ᴋᴀɢɢʟᴇ 2x ᴇxᴘᴇʀᴛ (ɴᴏᴛᴇʙᴏᴏᴋꜱ & ᴅɪꜱᴄᴜꜱꜱɪᴏɴ) <br>   
+📌ᴋᴀɢɢʟᴇ 2x ᴇxᴘᴇʀᴛ (ɴᴏᴛᴇʙᴏᴏᴋꜱ & ᴅɪꜱᴄᴜꜱꜱɪᴏɴ) <br>
 📌ᴇɴᴊᴏʏ ᴡʜɪʟᴇ ᴡᴏʀᴋɪɴɢ ᴏɴ ᴛʜᴇ ᴅɪꜰꜰᴇʀᴇɴᴛ ᴘʀᴏɢʀᴀᴍꜱ ᴀɴᴅ ʟᴇᴀʀɴɪɴɢꜱ <br>
 📌ᴄʟᴀꜱꜱ 10 ꜱᴛᴜᴅᴇɴᴛ (16 ʏ/ᴏ)
 
