@@ -19,6 +19,12 @@
 
 ### Personal Portfolio✌🏻 - [Prashans' Portfolio](https://prashansdixit.wixsite.com/prishuprograms) <br>
 
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314t2bbvd4oatsf22rsizajooh6q&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=314t2bbvd4oatsf22rsizajooh6q&redirect=true)
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314t2bbvd4oatsf22rsizajooh6q&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+<br>
+
 ## Current Understandings🚩
 <p>
   <img width="250" align='right' src="https://github.com/prishuprograms/prishuprograms/blob/main/assets/coding.gif?raw=true">
