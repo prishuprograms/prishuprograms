@@ -1,5 +1,5 @@
 ![Header](https://github.com/prishuprograms/PrashansDixit/blob/main/nailedit.jpg "Header") 
-# 𝐻𝑒𝓎 𝐹𝑜𝓁𝓀𝓈 𝒯𝒽𝑒𝓇𝑒! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hey folks there! I'm Prashans Dixit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
 ## Thanks for landing on my profile 🙏🏻
 
 <p>
