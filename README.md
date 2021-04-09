@@ -4,7 +4,7 @@
 ## Thanks for landing on my profile 🙏🏻
 
 <p>
-  <img width="250" align='left' src="https://github.com/prishuprograms/prishuprograms/blob/main/assets/profile%20pic.png?raw=true">
+  <img width="250" align='left' src="https://github.com/prishuprograms/prishuprograms/blob/main/assets/hello_gif.gif?raw=true">
 </p>
 
 ### About me🙋🏻‍♂️
