@@ -47,7 +47,7 @@
 ![](https://img.shields.io/badge/Code-HTML-5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Julia-informational?style=flat&logo=julia&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-vscode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=Visual-Studio-Code&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Pycharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterNB-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-JupyterLab-informational?style=flat&logo=jupyter&logoColor=white&color=2bbc8a)
