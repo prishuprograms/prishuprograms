@@ -1,5 +1,5 @@
 ![Header](https://github.com/prishuprograms/prishuprograms/blob/main/assets/profile_banner.png "Header") 
-# Hey folks there! I'm Prashans Dixit <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
+# Hey folks there! I'm Prashans Dixit <img src="https://github.com/prishuprograms/prishuprograms/blob/main/assets/wave.gif?raw=true" width="30px"> 
 ## Thanks for landing on my profile 🙏🏻
 
 <p>
